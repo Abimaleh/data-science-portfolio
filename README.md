@@ -1,2 +1,6 @@
 # data-science-portfolio
-Portfolio de Ciencia de Dados com projetos de analise de dados, machine learning e estudos de caso.
+
+Este portfolio visa reunir projetos praticos desenvolvidos para estudar e aplicar tecnicas de Analise de dados, Machine learning e Visualização de dados.
+
+## Estrutura
+
